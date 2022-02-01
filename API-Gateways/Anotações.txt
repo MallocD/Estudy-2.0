@@ -1,0 +1,26 @@
+JWT-> JSON Web Tokens
+
+Auth0- Implementação JWT
+
+
+Spring Boot + Azure Security Center 
+
+
+Quando incluímos as dependêncioas do  Azure, ele passa a gerenciar a segurança da aplicação,
+sendo necessário apenas a inclusão de algumas anotações, chaves do Azure e pronto, sua aplicação,
+já está sendo validada
+
+8a560bb9-852e-4fce-9bc2-67b4860371bb-Azure
+Application (client) ID
+:
+e1f2a3a9-da6b-44b2-adb7-4185e1c3f46d
+Object ID
+:
+e1b2df35-3de6-4035-9030-36cbbbe34611
+Directory (tenant) ID
+:
+4975b436-52eb-40fb-9b79-acafa377ebe5
+
+
+2690c29d-0b0e-40e2-872d-77918e661ad5->Secreat
+p4D7Q~th_f6I9IVA6fzXbrJKZ2i3MvKRjECUF->Value

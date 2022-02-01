@@ -1,0 +1,12 @@
+
+server:port : 8088
+azure:
+  activedirectory:
+    tenant-id: 8a560bb9-852e-4fce-9bc2-67b4860371bb
+    client-id: e1f2a3a9-da6b-44b2-adb7-4185e1c3f46d
+    client-secret: p4D7Q~th_f6I9IVA6fzXbrJKZ2i3MvKRjECUF
+    user-group:
+      allowed-group: group1
+
+
+
