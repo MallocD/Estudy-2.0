@@ -1,0 +1,6 @@
+=========================================================================================================================
+JDBC=> Java Database Connectivity ou JDBC é um conjunto de classe e interfaces (API) escritas em Java que fazem o envio de 
+instruções SQL para qualquer banco de dados relacional 
+
+OneToMany-> Um pra vários
+ManyToOne-> Um pra um
