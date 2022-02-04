@@ -1,0 +1,27 @@
+JVM->
+"Java Virtual Machine é uma maquina virtual responsável pela tradução dos ByteCodes oriundos do compilador JavaC em código de máquina de cada sistema operacional
+
+
+JavaDoc:
+É uma ferramenta para documentação no formato HTML que se baseia nos comentários do código-font
+Os comentários precisam conter tags para que a documentação fique legível
+
+Tags JavaDoc:
+
+@author-> Especifica o autor da classe ou do método
+
+@deprecated-> Indentifica classe ou métodos obsoletos
+
+@link-> Possibilita a definição de um link para um outro documento local ou remoto através de um URL;
+
+@param-> Descreve um parâmetro que será passado a um método;
+
+@return-> Descreve qual tipo de retorno de um método
+
+@see-> Associa a outras classe ou métodos
+
+@since-> Descreve desde quando uma classe ou métodos foram adicionados;
+
+@throws-> Descreve os tipos de exceções que podem ser lançadas por um método;
+
+@version-> Descreve a versão a versão da classe ou método
