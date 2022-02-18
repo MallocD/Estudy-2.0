@@ -1,0 +1,87 @@
+Protocolo HTTP
+
+Mensagens HTTP
+
+Métodos:
+
+GET-> solicita um recurso do servidor//Metódo seguro
+HEAD-> GET sem corpo de resposta//Metódo seguro
+POST-> submete uma entidade a um recurso
+PUT-> substituição de recursos pelos dados da requisição
+DELETE-> remoção de um recurso
+OPTION-> opções de comunicação com recurso//Metódo seguro
+TRACE-> chamada de loop-back a um determinado recurso
+CONNECT-> tunelamento identificado pelo recurso
+PATCH-> modificação parcial
+
+\\\Cookies:
+
+RFC 6265
+RASTREAMENTO
+INDENTFICAÇÃO
+ Restrição ou fornecimento
+de funções
+ 
+Cookies- Componentes
+
+*Cookie header line
+  Response message
+  Request message
+
+*Cookie file 
+  Mantido no cliente e servidor
+  Browser: gerenci
+
+*Banco de dados Back-end
+  Web-site
+
+
+Criptografia por Chave
+
+	Chave Assimétrica ->
+		*Chave privada
+		   Assinatura - criptografia
+		*Chave pública
+	          verificação de autenticidade
+
+	Chave simétrica->
+	      Chave única privada
+
+	       *Cifra de fluxo->
+ 		  *Sequência de bits pseudo-aleatório
+	          *Mapeamento 1 para 1
+	      *Cifra de bloco
+		  *Blocos de bits
+		     ->k = números de bits
+		     ->Ex:
+			   K=64-> Bloco de 64 bits
+		 *Possibilidades?
+			-Mapeamento por permutação
+			-> 8!
+	Conhecimento prévio da chave
+	Como transferir a chave?
+
+
+
+
+Cifra de César
+
+Subistitui pela K-ésima letra do alfabeto
+
+Exemplo:
+I love you
+K=3
+I oryh brx;
+
+
+
+
+
+//////////PROTOCOLO SSL///////
+
+	Secure Socket Layer -SSL
+*Segurança para conexões TCP
+
+*Confidencialidade
+*Integridade
+*Autenticidade end-point
